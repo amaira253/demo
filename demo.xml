@@ -1,0 +1,55 @@
+
+
+<?xml version="1.0" encoding="UTF-8"?>
+<college>
+<class>
+<name> James </name>
+<rollno> 16 </rollno>
+<address>
+<street> 101 South Street</street>
+<city> Halifax </city>
+<email> james@dal.ca </email>
+<phone> 4940001 </phone>
+</address>
+</class>
+<class>
+<name> malvika </name>
+<rollno> 17 </rollno>
+<address>
+<street> 101 north Street</street>
+<city> Halifax </city>
+<email> abc@dal.ca </email>
+<phone> 987654 </phone>
+</address>
+</class>
+<class>
+<name> daman </name>
+<rollno> 18 </rollno>
+<address>
+<street> 102 South Street</street>
+<city> Halifax </city>
+<email> gmail@dal.ca </email>
+<phone> 9834546 </phone>
+</address>
+</class>
+<class>
+<name> susma </name>
+<rollno> 19 </rollno>
+<address>
+<street> 104South Street</street>
+<city> Ambala </city>
+<email> james@dal.ca </email>
+<phone> 4940001 </phone>
+</address>
+</class>
+<class>
+<name> priya </name>
+<rollno> 20 </rollno>
+<address>
+<street> 105 South Street</street>
+<city> yamunanagar </city>
+<email> mahak@dal.ca </email>
+<phone> 4940001 </phone>
+</address>
+</class>
+</college>
